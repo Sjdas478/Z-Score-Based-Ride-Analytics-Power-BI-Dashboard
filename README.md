@@ -66,8 +66,10 @@ This project includes:
 ---
 
 ## 🖼 Dashboard Preview  
-*<img width="1322" height="735" alt="image" src="https://github.com/user-attachments/assets/c7d19c1e-6064-4fea-8b0b-3361e35f02b4" />
-*  
+<img width="1322" height="735" alt="image" src="https://github.com/user-attachments/assets/c7d19c1e-6064-4fea-8b0b-3361e35f02b4" />
+<img width="1314" height="736" alt="image" src="https://github.com/user-attachments/assets/be6a97e4-e278-4268-a5b0-9c5c32c52b09" />
+<img width="1310" height="731" alt="image" src="https://github.com/user-attachments/assets/9dbfa657-16a0-42a7-ab81-7985d51a94b7" />
+
 
 ---
 
